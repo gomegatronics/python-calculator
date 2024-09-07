@@ -2,4 +2,6 @@
 
 This repository hosts a simple calculator application run on CLI developed on Python
 
-This is the first repository i have ever created in GitHub
+## Purpose
+
+Calculator which can be accesed through CLI while being easily accessible using shortcuts eliminate inefficiency of normal calculator program found built in the operating system   
