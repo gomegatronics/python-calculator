@@ -9,3 +9,7 @@ Calculator which can be accesed through CLI while being easily accessible using 
 ### Feature 1
 
 This is a feature 1 created on feature-1 branch
+
+# Main
+
+This code is from the main branch
