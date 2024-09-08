@@ -5,3 +5,7 @@ This repository hosts a simple calculator application run on CLI developed on Py
 ## Purpose
 
 Calculator which can be accesed through CLI while being easily accessible using shortcuts eliminate inefficiency of normal calculator program found built in the operating system   
+
+### Feature 1
+
+This is a feature 1 created on feature-1 branch
