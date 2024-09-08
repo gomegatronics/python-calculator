@@ -10,6 +10,12 @@ Calculator which can be accesed through CLI while being easily accessible using 
 
 This is a feature 1 created on feature-1 branch
 
+<<<<<<< HEAD
 # Main
 
 This code is from the main branch
+=======
+# Branch 1
+
+This code is from the branch 1
+>>>>>>> branch-1
